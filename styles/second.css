@@ -1,0 +1,11 @@
+.card {
+    border-radius: 50px;
+    text-align: center;
+    border-top-right-radius: 260px;
+    border-top-left-radius: 260px;
+}
+
+.btn {
+    width: 100%;
+    border-radius: 20px;
+}
